@@ -1,0 +1,8 @@
+# Local Wi-Fi credentials (do not commit secrets)
+wifi_secrets.py
+secrets.py
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
